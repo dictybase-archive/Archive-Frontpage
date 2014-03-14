@@ -34,3 +34,16 @@ dictyBase contains a large portion of HTML pages that are handcrafted and mainta
 - Integrate image inclusion (explore AngularJS based option such as [Angular File Upload](https://github.com/danialfarid/angular-file-upload)).
 - Editor available only to authorized users. For this, integrate the frontend to our RESTful authentication backend.
 
+### Installations
+Using [Yeoman](http://yeoman.io/whyyeoman.html) to install client-side stack, comprising tools and frameworks to build the new frontend.
+
+* ``brew install nom`` (the package manager for Node.js)
+* ``npm install -g yo``(the scaffolding tool from Yeoman)
+* ``npm install -g generator-webapp`` (to scaffold a web application)
+* In the Frontpage folder and run ``yo webapp``
+	* By default install HTML5 Boilerplate, jQuery, and a Gruntfile.js.
+	* As option, Boostrap
+	
+``grunt serve`` let you motorized changes on real time.
+
+
