@@ -49,6 +49,7 @@ Using [Yeoman](http://yeoman.io/whyyeoman.html) to install client-side stack, co
 ### Design
 3/25/2014 First draft of the overall design "pre-approved".
 
+![Smaller icon](https://raw.githubusercontent.com/dictyBase/FrontPage/master/images/dictyFrontpage14_Draft1_small.jpg)
 
 Remaining issues about the Frontpage design:
 
