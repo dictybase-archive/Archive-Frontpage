@@ -46,4 +46,14 @@ Using [Yeoman](http://yeoman.io/whyyeoman.html) to install client-side stack, co
 	
 ``grunt serve`` let you motorized changes on real time.
 
+### Design
+3/25/2014 First draft of the overall design "pre-approved".
 
+
+Remaining issues about the Frontpage design:
+
+* Head Logo: keep original design, but adapted to the new technology (to avoid problems)
+
+#### Design implementation
+
+* Develop our own [generator](http://yeoman.io/generators.html)
