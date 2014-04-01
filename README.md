@@ -58,3 +58,5 @@ Remaining issues about the Frontpage design:
 #### Design implementation
 
 * Develop our own [generator](http://yeoman.io/generators.html)
+	* ``generator-generator`` installed 
+	* Follow tutorial
