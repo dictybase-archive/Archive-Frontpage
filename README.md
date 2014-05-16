@@ -60,9 +60,11 @@ Using [Yeoman](http://yeoman.io/whyyeoman.html) to install client-side stack, co
 
 Remaining issues about the Frontpage design:
 
-* Head Logo: keep original design, but adapted to the new technology (to avoid problems)
+* Include a section in the frontpage about the Dicty Stock Center!!. Something like... "___What's hot on DSC___" or "___new materials available___" or things like that!
 
-## Gene
+* Head Logo: keep original design, but adapted to the new technology (to avoid problems): a minimalist version already proposed.
+
+## Generator
 
 * Develop our own [generator](http://yeoman.io/generators.html)
 	* ``generator-generator`` installed (and follow tutorial)
