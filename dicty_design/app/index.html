@@ -35,19 +35,7 @@
 <!-- Up Top part: 
     Left: Logo. 
     Right: Search boxes + submenu  -->
-<div class ="navbar navbar-default navbar-static-top">
-    <div class="container">
-        <a href = "http://www.dictybase.org" class="navbar-brand">dictybase home </a>
-        <div class="collapse navbar-collapse navHeaderCollapse">
-            <ul class = "nav navbar-nav navbar-right" >
-                <li><a href = "#">  Home </a></li>
-                <li><a href = "#">  Casa </a></li>
-                <li><a href = "#">  House </a></li>
-                <li><a href = "#">  Maison </a></li>
-            </ul>
-        </div>
-    </div>
-</div>
+
 <div class="row uptop">
     <div class="container">
         <div class="row">
@@ -64,7 +52,7 @@
     </div>
 </div>
 
-<div class="row updown">
+<!-- <div class="row updown">
 
     <div class="container upmenu">
         <div class="row">
@@ -73,7 +61,38 @@
 
     </div>
 
+</div> -->
+
+<div class ="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <!-- <a href = "http://www.dictybase.org" class="navbar-brand">dictybase</a> -->
+
+        <button class="navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+        <div class="collapse navbar-collapse navHeaderCollapse">
+            <ul class = "nav navbar-nav navbar-left" >
+                <li class="active"><a href = "#">  Home </a></li>
+                <li><a href = "#">  Genomes </a></li>
+                <li><a href = "#">  Tools </a></li>
+                <li><a href = "#">  Stock Center </a></li>
+                <li class = "dropdown">
+                    <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown"> Research <b class="caret"></b> </a>
+                    <ul class="dropdown-menu">
+                        <li><a href = "#">Techniques</a></li>
+                        <li><a href = "#">Anatomy Ontology</a></li>
+                        <li><a href = "#">Mutant Phenotypes</a></li>
+                        <li><a href = "#">Codon Bias</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 </div>
+
 
 <!-- Main central section -->
 <div class="main">
