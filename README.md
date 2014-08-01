@@ -48,10 +48,11 @@ Using [Yeoman](http://yeoman.io/whyyeoman.html) to install client-side stack, co
 
 * General introduction and explanation about Yeoman <a href="http://code.tutsplus.com/tutorials/building-apps-with-the-yeoman-workflow--net-33254" target="_blank">workflow</a>
 
-	```
-	By using Yeoman, you're not saying "I want to do things your way, master. bow 	bow," without having any control. It's actually quite the opposite. What 	you're really saying is, "I want to make an application that follows best 	practices that have been discovered by frequent users and contributors of the 	web development community."	
-	```
+```
+By using Yeoman, you're not saying "I want to do things your way, master. bow 	bow," without having any control. It's actually quite the opposite. What you're really saying is, "I want to make an application that follows best practices that have been discovered by frequent users and contributors of the web development community."	
+```
 
+The project is under development in the [dictyBase/generator-dictyweb](https://github.com/dictyBase/generator-dictyweb) repository.
 
 ### Design
 3/25/2014 First draft of the overall design "pre-approved".
